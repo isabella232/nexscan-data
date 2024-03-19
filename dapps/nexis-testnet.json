@@ -1,0 +1,15 @@
+[
+	{
+		"author": "Nexscan",
+		"id": "nexscan",
+		"title": "Nexis Block Explorer",
+		"logo": "#",
+		"categories": ["Explorer"],
+		"shortDescription": "Blockchain explorer for Nexis Chain.",
+		"site": "https://evm-testnet.nexscan.io/",
+		"description": "Blockchain explorer for Nexis Chain.",
+		"url": "https://evm-testnet.nexscan.io/",
+        "internalWallet": false,
+        "external": true
+	}
+]
