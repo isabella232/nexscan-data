@@ -1,0 +1,27 @@
+[
+	{
+		"title": "EVM Mainnet",
+		"url": "https://evm.nexscan.io",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/topdefi/nexscan-data/main/logos/logo-dark.svg"
+	},
+  {
+		"title": "Native Mainnet",
+		"url": "https://nexscan.io",
+		"group": "Mainnets",
+		"icon": "https://raw.githubusercontent.com/topdefi/nexscan-data/main/logos/logo-dark.svg"
+	},
+	{
+		"title": "EVM Testnet",
+		"url": "https://evm-testnet.nexscan.io",
+		"group": "Testnets",
+        "isActive": true,
+		"icon": "https://raw.githubusercontent.com/topdefi/nexscan-data/main/logos/logo-dark.svg"
+	},
+  {
+		"title": "Native Testnet",
+		"url": "https://nexscan.io",
+		"group": "Testnets",
+		"icon": "https://raw.githubusercontent.com/topdefi/nexscan-data/main/logos/logo-dark.svg"
+	}
+]

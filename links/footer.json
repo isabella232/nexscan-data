@@ -1,0 +1,37 @@
+[
+    {
+      "title": "Developers",
+      "links": [
+        {
+          "text": "Documentation",
+          "url": "https://docs.nexis.network/"
+        },
+        {
+          "text": "GitHub",
+          "url": "https://github.com/Nexis-Network/"
+        }
+      ]
+    },
+    {
+      "title": "Community",
+      "links": [
+        {
+          "text": "Twitter",
+          "url": "https://twitter.com/nexis_network"
+        },
+        {
+          "text": "Discord",
+          "url": "https://t.me/Nexis_Network"
+        }
+      ]
+    },
+    {
+      "title": "About Nexis",
+      "links": [
+        {
+          "text": "About",
+          "url": "https://nexis.network"
+        }
+      ]
+    }
+  ]
