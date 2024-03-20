@@ -16,12 +16,12 @@
 		"author": "Nexis Bridge",
 		"id": "nexsis-bridge",
 		"title": "Nexis Bridge",
-		"logo": "https://bridge.nexis.network/logo.svg",
+		"logo": "https://evm-testnet.nexscan.io/assets/network_logo.svg",
 		"categories": ["Bridges"],
 		"shortDescription": "Bridge for Nexis Chain.",
-		"site": "https://bridge.nexscan.io/",
+		"site": "https://bridge.nexis.network/",
 		"description": "Bridge for Nexis Chain.",
-		"url": "https://bridge.nexscan.io/",
+		"url": "https://bridge.nexis.network/",
         "internalWallet": false,
         "external": true
 	}
