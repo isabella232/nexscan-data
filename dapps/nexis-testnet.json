@@ -3,12 +3,25 @@
 		"author": "Nexscan",
 		"id": "nexscan",
 		"title": "Nexis Block Explorer",
-		"logo": "#",
-		"categories": ["Explorer"],
+		"logo": "https://evm-testnet.nexscan.io/assets/network_logo.svg",
+		"categories": ["Explorers"],
 		"shortDescription": "Blockchain explorer for Nexis Chain.",
 		"site": "https://evm-testnet.nexscan.io/",
 		"description": "Blockchain explorer for Nexis Chain.",
 		"url": "https://evm-testnet.nexscan.io/",
+        "internalWallet": false,
+        "external": true
+	},
+	{
+		"author": "Nexis Bridge",
+		"id": "nexsis-bridge",
+		"title": "Nexis Bridge",
+		"logo": "https://bridge.nexis.network/logo.svg",
+		"categories": ["Bridges"],
+		"shortDescription": "Bridge for Nexis Chain.",
+		"site": "https://bridge.nexscan.io/",
+		"description": "Bridge for Nexis Chain.",
+		"url": "https://bridge.nexscan.io/",
         "internalWallet": false,
         "external": true
 	}
