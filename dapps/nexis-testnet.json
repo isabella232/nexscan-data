@@ -26,6 +26,32 @@
         "external": true
 	},
 	{
+		"author": "WalletConnect",
+		"id": "walletconnect",
+		"title": "Wallet Connect",
+		"logo": "https://raw.githubusercontent.com/Nexis-Network/nexscan-data/fb28e16ed5655466a359b5cf0617331270d08fde/logos/WalletConnect.svg",
+		"categories": ["Tooling"],
+		"shortDescription": "Tools to build secure, interactive, and powerful experiences.",
+		"site": "https://walletconnect.com/",
+		"description": "WalletConnect gives developers the tools to build secure, interactive, and powerful experiences that users everywhere can enjoy.",
+		"url": "https://walletconnect.com/",
+        "internalWallet": false,
+        "external": true
+	},
+	{
+		"author": "Blockwallet",
+		"id": "blockwallet",
+		"title": "BlockWallet",
+		"logo": "https://raw.githubusercontent.com/Nexis-Network/nexscan-data/fb28e16ed5655466a359b5cf0617331270d08fde/logos/BlockWallet.svg",
+		"categories": ["Wallet"],
+		"shortDescription": "A self-custody secure multi-chain wallet.",
+		"site": "https://blockwallet.io/",
+		"description": "A self-custody secure multi-chain wallet.",
+		"url": "https://blockwallet.io/",
+        "internalWallet": false,
+        "external": true
+	},
+		{
 		"author": "CryptoLink",
 		"id": "cryptolink",
 		"title": "CryptoLink",
