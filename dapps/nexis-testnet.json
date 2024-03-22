@@ -24,5 +24,44 @@
 		"url": "https://bridge.nexis.network/",
         "internalWallet": false,
         "external": true
+	},
+	{
+		"author": "CryptoLink",
+		"id": "cryptolink",
+		"title": "CryptoLink",
+		"logo": "https://raw.githubusercontent.com/Nexis-Network/nexscan-data/main/logos/CryptoLink.png",
+		"categories": ["Bridges"],
+		"shortDescription": "Building omni-chain products.",
+		"site": "https://cryptolink.tech/",
+		"description": "CryptoLink.Tech provides users and businesses the tools to engage and build in a cross-chain future. Break down the barriers between the blockchains by building omni-chain products.",
+		"url": "https://cryptolink.tech/",
+        "internalWallet": false,
+        "external": true
+	},
+	{
+		"author": "CorridorFinance",
+		"id": "corridorfinance",
+		"title": "Corridor Finance",
+		"logo": "https://raw.githubusercontent.com/Nexis-Network/nexscan-data/main/logos/CorridorFinance%20(2).png",
+		"categories": ["Bridges"],
+		"shortDescription": "Brc-20 bridge for Bitcoin assets.",
+		"site": "https://app.corridor.finance/",
+		"description": "Corridor Finance aims to enhance the functionality of BRC20 tokens by leveraging DeFi solutions such as swaps, bridges, and farming.",
+		"url": "https://app.corridor.finance/",
+        "internalWallet": false,
+        "external": true
+	},
+	{
+		"author": "MetaMask",
+		"id": "metamask",
+		"title": "MetaMask",
+		"logo": "https://raw.githubusercontent.com/Nexis-Network/nexscan-data/e006b7e6d5d8fbc9e8fe603c4183ad5627370c07/logos/MetaMask.svg",
+		"categories": ["Wallet"],
+		"shortDescription": "A non-custodial cryptocurrency wallet.",
+		"site": "https://metamask.io/download/",
+		"description": "The MetaMask extension allows you to buy, send, spend, swap, and exchange your digital assets. Make pay ments to anyone, anywhere.",
+		"url": "https://metamask.io/download/",
+        "internalWallet": false,
+        "external": true
 	}
 ]
