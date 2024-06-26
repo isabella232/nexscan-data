@@ -15,7 +15,6 @@
 		"title": "EVM Testnet",
 		"url": "https://evm-testnet.nexscan.io",
 		"group": "Testnets",
-        "isActive": true,
 		"icon": "https://raw.githubusercontent.com/topdefi/nexscan-data/main/logos/logo-dark.svg"
 	},
   {
@@ -24,10 +23,11 @@
 		"group": "Testnets",
 		"icon": "https://raw.githubusercontent.com/topdefi/nexscan-data/main/logos/logo-dark.svg"
 	},
-	{
+    {
 		"title": "EVM Devnet",
 		"url": "https://evm-devnet.nexscan.io",
 		"group": "Devnets",
+        "isActive": true,
 		"icon": "https://raw.githubusercontent.com/topdefi/nexscan-data/main/logos/logo-dark.svg"
 	},
   {

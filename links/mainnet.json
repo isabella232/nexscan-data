@@ -24,10 +24,16 @@
 		"group": "Testnets",
 		"icon": "https://raw.githubusercontent.com/topdefi/nexscan-data/main/logos/logo-dark.svg"
 	},
+	{
+		"title": "EVM Devnet",
+		"url": "https://evm-devnet.nexscan.io",
+		"group": "Devnets",
+		"icon": "https://raw.githubusercontent.com/topdefi/nexscan-data/main/logos/logo-dark.svg"
+	},
   {
-		"title": "Coming soon",
-		"url": "#",
-		"group": "Other",
-		"icon": ""
+		"title": "Native Devnet",
+		"url": "https://nexscan.io",
+		"group": "Devnets",
+		"icon": "https://raw.githubusercontent.com/topdefi/nexscan-data/main/logos/logo-dark.svg"
 	}
 ]
